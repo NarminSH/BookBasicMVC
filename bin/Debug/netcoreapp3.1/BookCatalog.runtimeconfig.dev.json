@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/narmin/.dotnet/store/|arch|/|tfm|",
+      "/Users/narmin/.nuget/packages"
+    ]
+  }
+}
